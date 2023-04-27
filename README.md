@@ -4,6 +4,8 @@
 
 Code that can be placed into an AWS Lambda function. This Lambda code will keep track of an images/ folder on an S3 Bucket and update a file called images.json everytime an image is uploaded to the folder.
 
+[Link to images.json](https://jscf-lambda-bucket.s3.us-west-2.amazonaws.com/images.json)
+
 ## Setup
 
 * First, create an AWS account.
