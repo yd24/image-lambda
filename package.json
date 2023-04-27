@@ -1,0 +1,25 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yd24/image-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yd24/image-lambda/issues"
+  },
+  "homepage": "https://github.com/yd24/image-lambda#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.321.1",
+    "jest": "^29.5.0"
+  }
+}
